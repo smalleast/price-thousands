@@ -1,0 +1,15 @@
+{
+  "name": "to-thousands",
+  "version": "1.0.0",
+  "description": "To  thousands for number.",
+  "main": "index.js",
+  "repository": "git@github.com:smalleast/to-thousands.git",
+  "author": "smalleast <382026180@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts":{
+    "test": "./node_modules/mocha/bin/mocha"
+  }
+}
